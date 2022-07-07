@@ -1,12 +1,12 @@
 body {
     font-size: 16px;
     line-height: 1.5;
-    font-family: Optima, Georgia, "Times New Roman";
+    font-family: Georgia, Optima, "Times New Roman";
 }
 
 .container {
-    padding-left: 100px;
-    padding-right: 15px;
+    padding-left: 110px;
+    padding-right: 110px;
     min-width: 1200px;
     margin-right: auto;
     margin-left: auto
@@ -81,7 +81,7 @@ li {
 }
 
 .photo img {
-    width: 85%;
+    width: 80%;
 }
 
 .introduction {
