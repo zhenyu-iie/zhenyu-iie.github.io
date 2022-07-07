@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.5;
     font-family: Georgia, Optima, "Times New Roman";
 }
@@ -57,7 +57,7 @@ li {
 }
 
 .news ul li {
-    font-size: 16px;
+    font-size: 15px;
     list-style-type: none;
     line-height: 30px;
     padding: 0;
